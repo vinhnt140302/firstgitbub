@@ -1,0 +1,27 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my GPS tracking and control</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+
+<body>
+    <h1 id="firstId" class="first-class"> Heading tag h1</h1>
+    <h1 id="secondId"> Heading tag h1 double</h1>
+    <h1 id="thirdId"> Heading tag h1 double</h1>
+    <div style="border: 1px solid green"> yeahh </div>
+    <span style="border: 1px solid green"> yeah oh yeah</span>
+    <a target="_blank" href="https://www.google.com/maps/@9.682084,105.568023,15z?hl=vi-VN">
+        link to google map
+    </a>
+    <p style="color:green; font-size:30px"> Day la trang web cua chung toi</p>
+    <img class="vinh-image"
+        src="C:\Users\PHONG VU\OneDrive\Hình ảnh\Ảnh chụp màn hình\Ảnh chụp màn hình (11).png" />
+</body>
+
+
+</html>
